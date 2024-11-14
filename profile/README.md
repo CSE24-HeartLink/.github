@@ -32,3 +32,17 @@ Seoul, Republic of Korea |
 - **Title** : Heart Link: An AI Family Platform for Rebuilding Connection
 
 - **Proposal** : HeartLink is a group-centric SNS platform that breaks down intergenerational communication barriers through a voice interface. Its real-time group feed feature, which converts AI voice recognition to text and generates images based on that text, allows users to easily share their daily lives through simple voice inputs. This particularly helps elderly users who are less familiar with digital devices to communicate naturally, reflecting HeartLink's mission to bridge family communication gaps. The platform also offers features such as an AI photo album that creates memory collages based on group photos, and a virtual pet AI-CLOI that grows in level based on SNS activity and interacts with users like a generative chatbot. These features facilitate meaningful interactions between family and friends while preserving precious memories. HeartLink, accessible through LG StandbyME, is a new communication platform that combines cutting-edge AI technology with the warmth of family and friendship connections.
+-Datasets
+TBD
+
+-Methdology
+TBD
+
+-Evaluation & Analysis
+TBD
+
+-Related Work
+TBD
+
+-Conclusion
+TBD
