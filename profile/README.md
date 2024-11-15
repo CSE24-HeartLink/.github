@@ -25,7 +25,7 @@ Seoul, Republic of Korea |
 
 - **Blog Sites**
 
-  - https://github.com/info2024ai
+  - https://github.com/CSE24-HeartLink
 
 - **Research Idea**
 
