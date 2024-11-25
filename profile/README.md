@@ -34,7 +34,7 @@ HeartLink은 음성 인터페이스를 통해 세대 간의 소통 장벽을 허
 | Yu Jihye         | Dept. of Information Systems, Hanyang University | Seoul, Republic of Korea | jihyeyu33@hanyang.ac.kr     |
     
 ### 🔗 Links
-🔗 Notion: TBD  
-🎨 Figma: TBD  
-🖥️ GitHub Repository: https://github.com/CSE24-HeartLink
+🔗 **Notion**: TBD  
+🎨 **Figma**: TBD  
+🖥️ **GitHub Repository**: https://github.com/CSE24-HeartLink
 
