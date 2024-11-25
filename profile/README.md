@@ -23,7 +23,7 @@ HeartLink은 음성 인터페이스를 통해 세대 간의 소통 장벽을 허
 
   
 ## 💻 Architecture Structure
-TBD
+![Architecture Diagram](../HeartLink_Architecture.png)
 
   
 ## 🙋🏻‍♂️ Group Members
