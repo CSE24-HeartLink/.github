@@ -1,6 +1,8 @@
 # 💖 HeartLink
 **An AI Family Platform for Rebuilding Connection**  
 - Connect generations through voice recognition and AI-enhanced social networking!
+![Title](../heartlink_title.png)
+  
   
 ## 🎥 Demo Video (🔗 Click Below!)
 🔗 TBD
@@ -23,7 +25,7 @@ HeartLink은 음성 인터페이스를 통해 세대 간의 소통 장벽을 허
   
    
 ## 💻 Architecture Structure
-![Architecture Diagram](../HeartLink_architecture.png)
+![Architecture Diagram](../heartlink_archi.png)
    
 ## 🙋🏻‍♂️ Group Members
 | Name            | Department                                | Location                 | Email                       |
