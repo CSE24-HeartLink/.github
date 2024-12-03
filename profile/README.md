@@ -1,6 +1,6 @@
 # 💖 HeartLink
 **An AI Family Platform for Rebuilding Connection**  
-- Connect generations through voice recognition and AI-enhanced social networking!
+Connect generations through voice recognition and AI-enhanced social networking!
 ![Title](../heartlink_title.png)
   
   
