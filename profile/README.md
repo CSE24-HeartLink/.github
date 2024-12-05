@@ -22,7 +22,7 @@ HeartLink은 음성 인터페이스를 통해 세대 간의 소통 장벽을 허
   
 👉 **Chatbot Pet - CLOi**: Encourage SNS participation and interaction through an evolving AI pet 
   
-👉 **Shared Albums**: Easily organize and share group photos  
+👉 **Group Albums**: Easily organize and share group photos  
   
 👉 **Friend & Group Management**: Build connections with family and friends
   
