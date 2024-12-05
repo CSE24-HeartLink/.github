@@ -6,7 +6,8 @@ Connect generations through voice recognition and AI-enhanced social networking!
   
   
 ## 🎥 Demo Video (🔗 Click Below!)
-🔗 TBD
+🔗 App Demo Video : https://youtu.be/DZnuOD6o2J8
+🔗 StandbyME x NUGU Demo Video : https://youtu.be/n3aJk-IJuhE
   
 ## 📌 Proposal
 HeartLink is a group-centric SNS platform that breaks down intergenerational communication barriers through a voice interface. Its real-time group feed feature converts AI voice recognition into text and generates images based on that text, allowing users to easily share their daily lives through simple voice inputs. This is particularly beneficial for elderly users who are less familiar with digital devices, enabling them to communicate naturally. HeartLink’s mission is to bridge family communication gaps and foster meaningful connections. Additionally, the platform features a virtual pet, CLOi, that grows in level based on SNS activity and interacts with users like a generative chatbot. Accessible through LG StandbyME, HeartLink combines cutting-edge AI technology with the warmth of family and friendship connections.
@@ -29,12 +30,12 @@ HeartLink은 음성 인터페이스를 통해 세대 간의 소통 장벽을 허
 ![Architecture Diagram](../heartlink_archi.png)
    
 ## 🙋🏻‍♂️ Group Members
-| Name            | Department                                | Location                 | Email                       |
+| Name            | Department                                | Role                   | Email                       |
 |------------------|------------------------------------------|--------------------------|-----------------------------|
-| Jeong Yeonkyung | Dept. of Information Systems, Hanyang University | Seoul, Republic of Korea | edaily0129@gmail.com        |
-| Kim Dayeon       | Dept. of Information Systems, Hanyang University | Seoul, Republic of Korea | jewelry0706@hanyang.ac.kr   |
-| Park Jeongho     | Dept. of Information Systems, Hanyang University | Seoul, Republic of Korea | popramel@hanyang.ac.kr      |
-| Yu Jihye         | Dept. of Information Systems, Hanyang University | Seoul, Republic of Korea | jihyeyu33@hanyang.ac.kr     |
+| Jeong Yeonkyung | Dept. of Information Systems, Hanyang University | PM, Back-End developer| edaily0129@gmail.com        |
+| Kim Dayeon       | Dept. of Information Systems, Hanyang University | Front-End developer | jewelry0706@hanyang.ac.kr   |
+| Park Jeongho     | Dept. of Information Systems, Hanyang University | Front-End developer | popramel@hanyang.ac.kr      |
+| Yu Jihye         | Dept. of Information Systems, Hanyang University | AI developer | jihyeyu33@hanyang.ac.kr     |
     
 ### 🔗 Links
 🔗 **Notion**: TBD  
