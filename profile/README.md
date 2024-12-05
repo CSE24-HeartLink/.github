@@ -6,7 +6,7 @@ Connect generations through voice recognition and AI-enhanced social networking!
   
   
 ## 🎥 Demo Video (🔗 Click Below!)
-🔗 App Demo Video : https://youtu.be/DZnuOD6o2J8
+🔗 App Demo Video : https://youtu.be/DZnuOD6o2J8 \\
 🔗 StandbyME x NUGU Demo Video : https://youtu.be/n3aJk-IJuhE
   
 ## 📌 Proposal
