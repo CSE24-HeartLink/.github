@@ -43,3 +43,4 @@ HeartLink은 음성 인터페이스를 통해 세대 간의 소통 장벽을 허
 🎨 **Figma**: https://www.figma.com/design/pWLXJosrBwKVW7n35S9YfL/2024-2-SE_HeartLink?node-id=1-5&t=JhY1tghOwMr3WjJo-1  
 🖥️ **GitHub Repository**: https://github.com/CSE24-HeartLink
 
+![Bye-bye](../greet.png)
