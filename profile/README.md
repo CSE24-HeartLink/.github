@@ -33,7 +33,7 @@ Using OpenAI's DALLE 3 model, HeartLink generates text-based images. The AI crea
 
 ### 👉 Upload Feeds by Voice
 
-By connecting with SK's NUGU speaker, users can create and share posts using just voice commands, while AI automatically generates and uploads text and images to group feeds. The entire workflow is AI-orchestrated, requiring minimal user intervention.
+By connecting with NUGU speaker, users can create and share posts using just voice commands, while AI automatically generates and uploads text and images to group feeds. The entire workflow is AI-orchestrated, requiring minimal user intervention.
 
 ---
 
