@@ -21,7 +21,7 @@ HeartLink은 음성 인터페이스를 통해 세대 간의 소통 장벽을 허
 HeartLink is an AI-driven social networking platform that allows users to more easily record and share their daily lives through automated feed generation features.
 
 
-### 👉 ** Speech-to-Text (STT) **
+### 👉 Speech-to-Text (STT)
 
 Utilizing HuggingFace's pre-trained Whisper model, HeartLink accurately converts users' speech to text. Through fine-tuning based on Korean language data, we reduced the error rate to approximately 4.3%.
 
@@ -67,8 +67,7 @@ By connecting with SK's NUGU speaker, users can create and share posts using jus
 | Yu Jihye         | Dept. of Information Systems, Hanyang University | AI developer | jihyeyu33@hanyang.ac.kr     |
     
 ### 🔗 Links
-🔗 **Notion**: https://phase-factory-0d0.notion.site/HEARTLINK-b8a6b9b84cc746a0903ce51631655fdd
-
+🔗 **Notion**: https://phase-factory-0d0.notion.site/HEARTLINK-b8a6b9b84cc746a0903ce51631655fdd  
 🎨 **Figma**: https://www.figma.com/design/pWLXJosrBwKVW7n35S9YfL/2024-2-SE_HeartLink?node-id=1-5&t=JhY1tghOwMr3WjJo-1  
 🖥️ **GitHub Repository**: https://github.com/CSE24-HeartLink
 
