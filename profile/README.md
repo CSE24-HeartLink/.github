@@ -59,7 +59,7 @@ By connecting with SK's NUGU speaker, users can create and share posts using jus
    
 ## 💻 Architecture Structure
 ![Architecture Diagram](../arc.png)
-<br><br>
+<br><br><br><br>
    
 ## 🙋🏻‍♂️ Group Members
 | Name            | Department                                | Role                   | Email                       |
