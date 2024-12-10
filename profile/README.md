@@ -64,8 +64,8 @@ By connecting with NUGU speaker, users can create and share posts using just voi
 ## 🙋🏻‍♂️ Group Members
 | Name            | Department                                | Role                   | Email                       |
 |------------------|------------------------------------------|--------------------------|-----------------------------|
-| Jeong Yeonkyung | Dept. of Information Systems, Hanyang University | Back-End developer| edaily0129@gmail.com        |
-| Kim Dayeon       | Dept. of Information Systems, Hanyang University | Front-End developer | jewelry0706@hanyang.ac.kr   |
+| Jeong Yeonkyung | Dept. of Information Systems, Hanyang University | PM, Back-End developer| edaily0129@gmail.com        |
+| Kim Dayeon       | Dept. of Information Systems, Hanyang University | Front-End developer, Designer | jewelry0706@hanyang.ac.kr   |
 | Park Jeongho     | Dept. of Information Systems, Hanyang University | Front-End developer | popramel@hanyang.ac.kr      |
 | Yu Jihye         | Dept. of Information Systems, Hanyang University | AI developer | jihyeyu33@hanyang.ac.kr     |
 
