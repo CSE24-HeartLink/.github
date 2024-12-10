@@ -35,7 +35,7 @@ By connecting with SK's NUGU speaker, users can create and share posts using jus
 
 ---
 
-## 🌟 SNS Functions
+## 💬 SNS Functions
 
 
 👭 **Group Management and Communication**
