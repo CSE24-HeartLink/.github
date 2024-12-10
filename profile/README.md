@@ -68,6 +68,7 @@ By connecting with SK's NUGU speaker, users can create and share posts using jus
 | Kim Dayeon       | Dept. of Information Systems, Hanyang University | Designer, Front-End developer | jewelry0706@hanyang.ac.kr   |
 | Park Jeongho     | Dept. of Information Systems, Hanyang University | Front-End developer | popramel@hanyang.ac.kr      |
 | Yu Jihye         | Dept. of Information Systems, Hanyang University | AI developer | jihyeyu33@hanyang.ac.kr     |
+
 <br><br>
     
 ## 🔗 Links
