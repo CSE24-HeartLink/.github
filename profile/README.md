@@ -47,7 +47,7 @@ By connecting with SK's NUGU speaker, users can create and share posts using jus
 📁 **Post Archive and Management** 
 
 - **Archives**: A space where personal and group posts are organized chronologically and stored.
-- Easily find past posts and systematically manage own important moments.
+  - Easily find past posts and systematically manage own important moments.
 
 🤖 **CLOi: Virtual Pet & Chatbot**
 
@@ -68,6 +68,7 @@ By connecting with SK's NUGU speaker, users can create and share posts using jus
     
 ### 🔗 Links
 🔗 **Notion**: https://phase-factory-0d0.notion.site/HEARTLINK-b8a6b9b84cc746a0903ce51631655fdd
+
 🎨 **Figma**: https://www.figma.com/design/pWLXJosrBwKVW7n35S9YfL/2024-2-SE_HeartLink?node-id=1-5&t=JhY1tghOwMr3WjJo-1  
 🖥️ **GitHub Repository**: https://github.com/CSE24-HeartLink
 
