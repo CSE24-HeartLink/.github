@@ -30,7 +30,7 @@ HeartLink은 음성 인터페이스를 통해 세대 간의 소통 장벽을 허
   
    
 ## 💻 Architecture Structure
-![Architecture Diagram](../archi.png)
+![Architecture Diagram](../hlarchi.png)
    
 ## 🙋🏻‍♂️ Group Members
 | Name            | Department                                | Role                   | Email                       |
