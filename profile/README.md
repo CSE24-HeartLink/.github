@@ -70,8 +70,8 @@ By connecting with NUGU AI speaker, users can create and share posts using just 
 | Yu Jihye         | Dept. of Information Systems, Hanyang University | AI developer | jihyeyu33@hanyang.ac.kr     |
 
 ### 🔗 Links
-🔗 **Notion**: https://heartlink2024.notion.site
-🎨 **Figma**: https://www.figma.com/design/pWLXJosrBwKVW7n35S9YfL/2024-2-SE_HeartLink
+🔗 **Notion**: bit.ly/heartlink2024
+🎨 **Figma**: bit.ly/heartlink_figma
 🖥️ **PPT**: https://www.miricanvas.com/v/13zwjdu
 
 ![Bye-bye](../greet.png)
