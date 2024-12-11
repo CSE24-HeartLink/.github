@@ -10,9 +10,6 @@ Connect generations through voice recognition and AI-enhanced social networking!
 
 🔗 **LG StandbyME x NUGU Demo Video** : https://youtu.be/ExzJVdnNvAs
 
-🔗 **LG StandbyME x NUGU Scenario Video** : https://youtu.be/n3aJk-IJuhE
-<br><br>
-
 ## 📌 Proposal
 HeartLink is a group-centric SNS platform that breaks down intergenerational communication barriers through a voice interface. Its real-time group feed feature converts AI voice recognition into text and generates images based on that text, allowing users to easily share their daily lives through simple voice inputs. This is particularly beneficial for elderly users who are less familiar with digital devices, enabling them to communicate naturally. HeartLink’s mission is to bridge family communication gaps and foster meaningful connections. Additionally, the platform features a virtual pet, CLOi, that grows in level based on SNS activity and interacts with users like a generative chatbot. Accessible through LG StandbyME, HeartLink combines cutting-edge AI technology with the warmth of family and friendship connections.
   
