@@ -72,7 +72,7 @@ By connecting with NUGU AI speaker, users can create and share posts using just 
 ### 🔗 Links
 🔗 **Notion**: https://bit.ly/heartlink2024
 
-🎨 **Figma**: https://bit.ly/heartlink_figma
+🎨 **Design**: https://bit.ly/heartlink_figma
 
 🖥️ **PPT**: https://www.miricanvas.com/v/13zwjdu
 
