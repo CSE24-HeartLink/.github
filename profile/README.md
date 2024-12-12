@@ -6,9 +6,9 @@ Connect generations through voice recognition and AI-enhanced social networking!
 <br><br>
   
 ## 🎥 Demo Video (🔗 Click Below!)
-🔗 **App Demo Video** : https://youtu.be/94qOdVWQj_8
+🔗 **App Demo Video** : https://youtu.be/h4CneDoe1II?si=5JljB82nhy7Yqa-H
 
-🔗 **LG StandbyME x NUGU Demo Video** : https://youtu.be/ExzJVdnNvAs
+🔗 **LG StandbyME x NUGU Demo Video** : https://bit.ly/3ZOzte7
 <br><br>
 
 ## 📌 Proposal
@@ -72,6 +72,6 @@ By connecting with NUGU AI speaker, users can create and share posts using just 
 
 🎨 **Design**: https://bit.ly/heartlink_figma
 
-🖥️ **PPT**: https://www.miricanvas.com/v/13zwjdu
+🖥️ **PPT**: https://www.miricanvas.com/v/140wo11
 
 ![Bye-bye](../greet.png)
